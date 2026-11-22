@@ -1,0 +1,100 @@
+date,added,removed,reason
+2021-01-07,ENPH,TIF,LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.
+2021-01-21,TRMB,CXO,ConocoPhillips acquired Concho Resources.
+2021-02-12,MPWR,FTI,Corporate spin-off of Technip Energies.
+2021-03-22,CZR,VNT,Market capitalization changes.
+2021-03-22,NXPI,FLS,Market capitalization changes.
+2021-03-22,PENN,SLG,Market capitalization changes.
+2021-03-22,GNRC,XRX,Market capitalization changes.
+2021-04-20,PTC,VAR,Siemens Healthineers acquired Varian Medical Systems.
+2021-05-14,CRL,FLIR,Teledyne Technologies acquired FLIR Systems.
+2021-06-03,OGN,,Merck completed the corporate spin-off of Organon.
+2021-06-04,,HFC,Market capitalization changes.
+2021-07-21,MRNA,ALXN,AstraZeneca acquired Alexion Pharmaceuticals.
+2021-08-30,TECH,MXIM,Analog Devices acquired Maxim Integrated Products.
+2021-09-20,MTCH,PRGO,Market capitalization changes.
+2021-09-20,BRO,NOV,Market capitalization changes.
+2021-09-20,CDAY,UNM,Market capitalization changes.
+2021-12-14,EPAM,KSU,Canadian Pacific acquired Kansas City Southern.
+2021-12-20,SBNY,LEG,Market capitalization changes.
+2021-12-20,FDS,WU,Market capitalization changes.
+2021-12-20,SEDG,HBI,Market capitalization changes.
+2022-01-10,WTW,WLTW,Willis Towers Watson changed its ticker symbol from WLTW to WTW.
+2022-02-02,CEG,,Exelon completed the corporate spin-off of Constellation Energy.
+2022-02-03,,GPS,Market capitalization changes.
+2022-02-15,NDSN,XLNX,Advanced Micro Devices acquired Xilinx.
+2022-03-02,MOH,INFO,S&P Global acquired IHS Markit.
+2022-04-04,CPT,PBCT,M&T Bank acquired People's United Financial.
+2022-04-11,WBD,DISCA,WarnerMedia and Discovery merged to create Warner Bros. Discovery.
+2022-04-11,,DISCK,WarnerMedia and Discovery merged to create Warner Bros. Discovery.
+2022-06-08,VICI,CERN,Oracle acquired Cerner.
+2022-06-21,ON,IPGP,Market capitalization changes.
+2022-06-21,KDP,UAA,Market capitalization changes.
+2022-06-21,,UA,Market capitalization changes.
+2022-09-19,CSGP,PVH,Market capitalization changes.
+2022-09-19,INVH,PENN,Market capitalization changes.
+2022-10-03,EQT,DRE,Prologis acquired Duke Realty.
+2022-10-03,PCG,CTXS,Vista Equity Partners acquired Citrix Systems.
+2022-10-12,TRGP,NLSN,Elliott Investment Management acquired Nielsen Holdings.
+2022-11-01,ACGL,TWTR,Elon Musk acquired Twitter.
+2022-12-15,MBC,,Fortune Brands Home & Security completed the corporate spin-off of MasterBrand.
+2022-12-19,FSLR,FBHS,Market capitalization changes.
+2022-12-19,,MBC,Market capitalization changes.
+2022-12-22,STLD,ABMD,Johnson & Johnson acquired Abiomed.
+2023-01-04,GEHC,,General Electric completed the corporate spin-off of GE HealthCare.
+2023-01-05,,VNO,Market capitalization changes.
+2023-03-15,BG,SBNY,The FDIC placed Signature Bank into FDIC Receivership.
+2023-03-15,PODD,SIVB,"The FDIC placed SVB's main subsidiary, Silicon Valley Bank, into receivership."
+2023-03-20,FICO,LUMN,Market capitalization changes.
+2023-05-04,AXON,FRC,The Federal Deposit Insurance Corporation (FDIC) placed First Republic Bank into receivership.
+2023-06-20,PANW,DISH,Market capitalization changes.
+2023-08-25,KVUE,AAP,Johnson & Johnson offered to exchange the shares of Kenvue held for shares of Johnson & Johnson in a split-off exchange offer.
+2023-09-18,BX,LNC,Market capitalization changes.
+2023-09-18,ABNB,NWL,Market capitalization changes.
+2023-10-02,VLTO,,Danaher Corporation completed the corporate spin-off of Veralto.
+2023-10-03,,DXC,Market capitalization changes.
+2023-10-18,LULU,ATVI,Acquisition of Activision Blizzard by Microsoft.
+2023-10-18,HUBB,OGN,Market capitalization changes.
+2023-12-18,UBER,SEE,Market capitalization changes.
+2023-12-18,JBL,ALK,Market capitalization changes.
+2023-12-18,BLDR,SEDG,Market capitalization changes.
+2024-03-18,DECK,ZION,Market capitalization changes.
+2024-03-18,SMCI,WHR,Market capitalization changes.
+2024-04-01,SOLV,,3M completed the corporate spin-off of Solventum.
+2024-04-02,GEV,,General Electric completed the corporate spin-off of GE Vernova.
+2024-04-03,,VFC,Market capitalization changes.
+2024-04-03,,XRAY,Market capitalization changes.
+2024-05-08,VST,PXD,ExxonMobil acquired Pioneer Natural Resources.
+2024-06-24,GDDY,ILMN,Market capitalization changes.
+2024-06-24,CRWD,CMA,Market capitalization changes.
+2024-06-24,KKR,RHI,Market capitalization changes.
+2024-09-23,PLTR,AAL,Market capitalization changes.
+2024-09-23,ERIE,BIO,Market capitalization changes.
+2024-09-23,DELL,ETSY,Market capitalization changes.
+2024-09-30,AMTM,,"Jacobs Solutions completed the corporate spin-off of its Critical Mission Solutions and Cyber Intelligence business, which merged with private Amentum to create newly publicly traded Amentum Holdings."
+2024-10-01,,BBWI,Market capitalization changes.
+2024-11-26,TPL,MRO,ConocoPhillips acquired Marathon Oil.
+2024-12-23,APO,QRVO,Market capitalization changes.
+2024-12-23,LII,CTLT,Novo Holdings A/S acquired Catalent.
+2024-12-23,WDAY,AMTM,Market capitalization changes.
+2025-03-24,EXE,FMC,Market capitalization changes.
+2025-03-24,WSM,CE,Market capitalization changes.
+2025-03-24,TKO,TFX,Market capitalization changes.
+2025-03-24,DASH,BWA,Market capitalization changes.
+2025-05-19,COIN,DFS,Capital One acquired Discover Financial.
+2025-07-09,DDOG,JNPR,Hewlett Packard Enterprise acquired Juniper Networks.
+2025-07-18,TTD,ANSS,Synopsys acquired Ansys.
+2025-07-23,XYZ,HES,Chevron acquired Hess.
+2025-08-28,IBKR,WBA,Sycamore Partners acquired Walgreen Boots Alliance.
+2025-09-22,EME,ENPH,Market capitalization changes.
+2025-09-22,HOOD,CZR,Market capitalization changes.
+2025-09-22,APP,MKTX,Market capitalization changes.
+2025-10-30,SOLS,,Honeywell International completed the corporate spin-off of Solstice Advanced Materials.
+2025-10-31,,KMX,Market capitalization changes.
+2025-11-03,Q,,Dupont completed the corporate spin-off of Qnity Electronics.
+2025-11-04,,EMN,Market capitalization changes.
+2025-11-28,SNDK,IPG,Omnicom Group acquired (The) Interpublic Group.
+2025-12-11,ARES,K,Mars Inc. acquired Kellanova.
+2025-12-22,FIX,MHK,Market capitalization changes.
+2025-12-22,CVNA,SOLS,Market capitalization changes.
+2025-12-22,CRH,LKQ,Market capitalization changes.

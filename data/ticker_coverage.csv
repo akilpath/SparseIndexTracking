@@ -1,0 +1,594 @@
+ticker,security,gics_sector,valid_price_days,sp500_member_days,member_days_with_price,complete_over_5yr,complete_while_member
+A,Agilent Technologies,Health Care,1255,1255,1255,True,True
+AAL,,,1255,935,935,True,True
+AAP,,,1255,665,665,True,True
+AAPL,Apple Inc.,Information Technology,1255,1255,1255,True,True
+ABBV,AbbVie,Health Care,1255,1255,1255,True,True
+ABMD,,,0,497,0,False,False
+ABNB,Airbnb,Consumer Discretionary,1255,575,575,True,True
+ABT,Abbott Laboratories,Health Care,1255,1255,1255,True,True
+ACGL,Arch Capital Group,Financials,1255,794,794,True,True
+ACN,Accenture,Information Technology,1255,1255,1255,True,True
+ADBE,Adobe Inc.,Information Technology,1255,1255,1255,True,True
+ADI,Analog Devices,Information Technology,1255,1255,1255,True,True
+ADM,Archer Daniels Midland,Consumer Staples,1255,1255,1255,True,True
+ADP,Automatic Data Processing,Industrials,1255,1255,1255,True,True
+ADSK,Autodesk,Information Technology,1255,1255,1255,True,True
+AEE,Ameren,Utilities,1255,1255,1255,True,True
+AEP,American Electric Power,Utilities,1255,1255,1255,True,True
+AES,AES Corporation,Utilities,1255,1255,1255,True,True
+AFL,Aflac,Financials,1255,1255,1255,True,True
+AIG,American International Group,Financials,1255,1255,1255,True,True
+AIZ,Assurant,Financials,1255,1255,1255,True,True
+AJG,Arthur J. Gallagher & Co.,Financials,1255,1255,1255,True,True
+AKAM,Akamai Technologies,Information Technology,1255,1255,1255,True,True
+ALB,Albemarle Corporation,Materials,1255,1255,1255,True,True
+ALGN,Align Technology,Health Care,1255,1255,1255,True,True
+ALK,,,1255,744,744,True,True
+ALL,Allstate,Financials,1255,1255,1255,True,True
+ALLE,Allegion,Industrials,1255,1255,1255,True,True
+ALXN,,,0,137,0,False,False
+AMAT,Applied Materials,Information Technology,1255,1255,1255,True,True
+AMCR,Amcor,Materials,1255,1255,1255,True,True
+AMD,Advanced Micro Devices,Information Technology,1255,1255,1255,True,True
+AME,Ametek,Industrials,1255,1255,1255,True,True
+AMGN,Amgen,Health Care,1255,1255,1255,True,True
+AMP,Ameriprise Financial,Financials,1255,1255,1255,True,True
+AMT,American Tower,Real Estate,1255,1255,1255,True,True
+AMTM,,,319,59,59,False,True
+AMZN,Amazon,Consumer Discretionary,1255,1255,1255,True,True
+ANET,Arista Networks,Information Technology,1255,1255,1255,True,True
+ANSS,,,0,1139,0,False,False
+AON,Aon plc,Financials,1255,1255,1255,True,True
+AOS,A. O. Smith,Industrials,1255,1255,1255,True,True
+APA,APA Corporation,Energy,1255,1255,1255,True,True
+APD,Air Products,Materials,1255,1255,1255,True,True
+APH,Amphenol,Information Technology,1255,1255,1255,True,True
+APO,Apollo Global Management,Financials,1255,256,256,True,True
+APP,AppLovin,Communication Services,1185,71,71,False,True
+APTV,Aptiv,Consumer Discretionary,1255,1255,1255,True,True
+ARE,Alexandria Real Estate Equities,Real Estate,1255,1255,1255,True,True
+ARES,Ares Management,Financials,1255,14,14,True,True
+ATO,Atmos Energy,Utilities,1255,1255,1255,True,True
+ATVI,,,0,702,0,False,False
+AVB,,,0,1255,0,False,False
+AVGO,Broadcom,Information Technology,1255,1255,1255,True,True
+AVY,Avery Dennison,Materials,1255,1255,1255,True,True
+AWK,American Water Works,Utilities,1255,1255,1255,True,True
+AXON,Axon Enterprise,Industrials,1255,668,668,True,True
+AXP,American Express,Financials,1255,1255,1255,True,True
+AZO,AutoZone,Consumer Discretionary,1255,1255,1255,True,True
+BA,Boeing,Industrials,1255,1255,1255,True,True
+BAC,Bank of America,Financials,1255,1255,1255,True,True
+BALL,Ball Corporation,Materials,1255,1255,1255,True,True
+BAX,Baxter International,Health Care,1255,1255,1255,True,True
+BBWI,,,1255,941,941,True,True
+BBY,Best Buy,Consumer Discretionary,1255,1255,1255,True,True
+BDX,Becton Dickinson,Health Care,1255,1255,1255,True,True
+BEN,Franklin Resources,Financials,1255,1255,1255,True,True
+BF-B,Brown–Forman,Consumer Staples,1255,1255,1255,True,True
+BG,Bunge Global,Consumer Staples,1255,703,703,True,True
+BIIB,Biogen,Health Care,1255,1255,1255,True,True
+BIO,,,1255,935,935,True,True
+BKNG,Booking Holdings,Consumer Discretionary,1255,1255,1255,True,True
+BKR,Baker Hughes,Energy,1255,1255,1255,True,True
+BLDR,,,1255,511,511,True,True
+BLK,BlackRock,Financials,1255,1255,1255,True,True
+BMY,Bristol Myers Squibb,Health Care,1255,1255,1255,True,True
+BNY,BNY Mellon,Financials,1255,1255,1255,True,True
+BR,Broadridge Financial Solutions,Industrials,1255,1255,1255,True,True
+BRK-B,Berkshire Hathaway,Financials,1255,1255,1255,True,True
+BRO,Brown & Brown,Financials,1255,1076,1076,True,True
+BSX,Boston Scientific,Health Care,1255,1255,1255,True,True
+BWA,,,1255,1059,1059,True,True
+BX,Blackstone Inc.,Financials,1255,575,575,True,True
+BXP,"BXP, Inc.",Real Estate,1255,1255,1255,True,True
+C,Citigroup,Financials,1255,1255,1255,True,True
+CAG,,,1255,1255,1255,True,True
+CAH,Cardinal Health,Health Care,1255,1255,1255,True,True
+CARR,Carrier Global,Industrials,1255,1255,1255,True,True
+CAT,Caterpillar Inc.,Industrials,1255,1255,1255,True,True
+CB,Chubb Limited,Financials,1255,1255,1255,True,True
+CBOE,Cboe Global Markets,Financials,1255,1255,1255,True,True
+CBRE,CBRE Group,Real Estate,1255,1255,1255,True,True
+CCI,Crown Castle,Real Estate,1255,1255,1255,True,True
+CCL,Carnival Corporation,Consumer Discretionary,1255,1255,1255,True,True
+CDNS,Cadence Design Systems,Information Technology,1255,1255,1255,True,True
+CDW,CDW Corporation,Information Technology,1255,1255,1255,True,True
+CE,,,1255,1059,1059,True,True
+CEG,Constellation Energy,Utilities,992,982,982,False,True
+CERN,,,0,360,0,False,False
+CF,CF Industries,Materials,1255,1255,1255,True,True
+CFG,Citizens Financial Group,Financials,1255,1255,1255,True,True
+CHD,Church & Dwight,Consumer Staples,1255,1255,1255,True,True
+CHRW,C.H. Robinson,Industrials,1255,1255,1255,True,True
+CHTR,Charter Communications,Communication Services,1255,1255,1255,True,True
+CI,Cigna,Health Care,1255,1255,1255,True,True
+CINF,Cincinnati Financial,Financials,1255,1255,1255,True,True
+CL,Colgate-Palmolive,Consumer Staples,1255,1255,1255,True,True
+CLX,Clorox,Consumer Staples,1255,1255,1255,True,True
+CMA,,,0,872,0,False,False
+CMCSA,Comcast,Communication Services,1255,1255,1255,True,True
+CME,CME Group,Financials,1255,1255,1255,True,True
+CMG,Chipotle Mexican Grill,Consumer Discretionary,1255,1255,1255,True,True
+CMI,Cummins,Industrials,1255,1255,1255,True,True
+CMS,CMS Energy,Utilities,1255,1255,1255,True,True
+CNC,Centene Corporation,Health Care,1255,1255,1255,True,True
+CNP,CenterPoint Energy,Utilities,1255,1255,1255,True,True
+COF,Capital One,Financials,1255,1255,1255,True,True
+COIN,Coinbase,Financials,1186,157,157,False,True
+COO,Cooper Companies (The),Health Care,1255,1255,1255,True,True
+COP,ConocoPhillips,Energy,1255,1255,1255,True,True
+COR,Cencora,Health Care,1255,1255,1255,True,True
+COST,Costco,Consumer Staples,1255,1255,1255,True,True
+CPAY,Corpay,Financials,1255,1255,1255,True,True
+CPB,,,1255,1255,1255,True,True
+CPRT,Copart,Industrials,1255,1255,1255,True,True
+CPT,Camden Property Trust,Real Estate,1255,940,940,True,True
+CRH,CRH plc,Materials,1255,7,7,True,True
+CRL,Charles River Laboratories,Health Care,1255,1164,1164,True,True
+CRM,Salesforce,Information Technology,1255,1255,1255,True,True
+CRWD,CrowdStrike,Information Technology,1255,383,383,True,True
+CSCO,Cisco,Information Technology,1255,1255,1255,True,True
+CSGP,CoStar Group,Real Estate,1255,825,825,True,True
+CSX,CSX Corporation,Industrials,1255,1255,1255,True,True
+CTAS,Cintas,Industrials,1255,1255,1255,True,True
+CTLT,,,0,999,0,False,False
+CTRA,,,0,1255,0,False,False
+CTSH,Cognizant,Information Technology,1255,1255,1255,True,True
+CTVA,,,1255,1255,1255,True,True
+CTXS,,,0,440,0,False,False
+CVNA,Carvana,Consumer Discretionary,1255,7,7,True,True
+CVS,CVS Health,Health Care,1255,1255,1255,True,True
+CVX,Chevron Corporation,Energy,1255,1255,1255,True,True
+CXO,,,0,12,0,False,False
+CZR,,,1255,1131,1131,True,True
+D,Dominion Energy,Utilities,1255,1255,1255,True,True
+DAL,Delta Air Lines,Industrials,1255,1255,1255,True,True
+DASH,DoorDash,Consumer Discretionary,1255,196,196,True,True
+DAY,,,0,1255,0,False,False
+DD,DuPont,Industrials,1255,1255,1255,True,True
+DDOG,Datadog,Information Technology,1255,123,123,True,True
+DE,Deere & Company,Industrials,1255,1255,1255,True,True
+DECK,Deckers Brands,Consumer Discretionary,1255,450,450,True,True
+DELL,Dell Technologies,Information Technology,1255,320,320,True,True
+DFS,,,0,1098,0,False,False
+DG,Dollar General,Consumer Staples,1255,1255,1255,True,True
+DGX,Quest Diagnostics,Health Care,1255,1255,1255,True,True
+DHI,D. R. Horton,Consumer Discretionary,1255,1255,1255,True,True
+DHR,Danaher Corporation,Health Care,1255,1255,1255,True,True
+DIS,Walt Disney Company (The),Communication Services,1255,1255,1255,True,True
+DISCA,,,0,320,0,False,False
+DISCK,,,0,320,0,False,False
+DISH,,,0,618,0,False,False
+DLR,Digital Realty,Real Estate,1255,1255,1255,True,True
+DLTR,Dollar Tree,Consumer Staples,1255,1255,1255,True,True
+DOC,Healthpeak Properties,Real Estate,1255,1255,1255,True,True
+DOV,Dover Corporation,Industrials,1255,1255,1255,True,True
+DOW,Dow Inc.,Materials,1255,1255,1255,True,True
+DPZ,Domino's,Consumer Discretionary,1255,1255,1255,True,True
+DRE,,,0,440,0,False,False
+DRI,Darden Restaurants,Consumer Discretionary,1255,1255,1255,True,True
+DTE,DTE Energy,Utilities,1255,1255,1255,True,True
+DUK,Duke Energy,Utilities,1255,1255,1255,True,True
+DVA,DaVita,Health Care,1255,1255,1255,True,True
+DVN,Devon Energy,Energy,1255,1255,1255,True,True
+DXC,,,1255,691,691,True,True
+DXCM,Dexcom,Health Care,1255,1255,1255,True,True
+EA,,,0,1255,0,False,False
+EBAY,eBay Inc.,Consumer Discretionary,1255,1255,1255,True,True
+ECHO,EchoStar,Communication Services,1255,1255,1255,True,True
+ECL,Ecolab,Materials,1255,1255,1255,True,True
+ED,Consolidated Edison,Utilities,1255,1255,1255,True,True
+EFX,Equifax,Industrials,1255,1255,1255,True,True
+EG,Everest Group,Financials,1255,1255,1255,True,True
+EIX,Edison International,Utilities,1255,1255,1255,True,True
+EL,Estée Lauder Companies (The),Consumer Staples,1255,1255,1255,True,True
+ELV,Elevance Health,Health Care,1255,1255,1255,True,True
+EME,Emcor,Industrials,1255,71,71,True,True
+EMN,,,1255,1215,1215,True,True
+EMR,Emerson Electric,Industrials,1255,1255,1255,True,True
+ENPH,,,1255,1181,1181,True,True
+EOG,EOG Resources,Energy,1255,1255,1255,True,True
+EPAM,,,1255,1016,1016,True,True
+EQIX,Equinix,Real Estate,1255,1255,1255,True,True
+EQT,EQT Corporation,Energy,1255,815,815,True,True
+ERIE,Erie Indemnity,Financials,1255,320,320,True,True
+ES,Eversource Energy,Utilities,1255,1255,1255,True,True
+ESS,Essex Property Trust,Real Estate,1255,1255,1255,True,True
+ETN,Eaton Corporation,Industrials,1255,1255,1255,True,True
+ETR,Entergy,Utilities,1255,1255,1255,True,True
+ETSY,,,1255,935,935,True,True
+EVRG,Evergy,Utilities,1255,1255,1255,True,True
+EW,Edwards Lifesciences,Health Care,1255,1255,1255,True,True
+EXC,Exelon,Utilities,1255,1255,1255,True,True
+EXE,Expand Energy,Energy,1229,196,196,False,True
+EXPD,Expeditors International,Industrials,1255,1255,1255,True,True
+EXPE,Expedia Group,Consumer Discretionary,1255,1255,1255,True,True
+EXR,Extra Space Storage,Real Estate,1255,1255,1255,True,True
+F,Ford Motor Company,Consumer Discretionary,1255,1255,1255,True,True
+FANG,Diamondback Energy,Energy,1255,1255,1255,True,True
+FAST,Fastenal,Industrials,1255,1255,1255,True,True
+FBHS,,,0,494,0,False,False
+FCX,Freeport-McMoRan,Materials,1255,1255,1255,True,True
+FDS,FactSet,Financials,1255,1012,1012,True,True
+FDX,FedEx,Industrials,1255,1255,1255,True,True
+FE,FirstEnergy,Utilities,1255,1255,1255,True,True
+FFIV,"F5, Inc.",Information Technology,1255,1255,1255,True,True
+FICO,Fair Isaac,Information Technology,1255,700,700,True,True
+FIS,Fidelity National Information Services,Financials,1255,1255,1255,True,True
+FISV,Fiserv,Financials,1255,1255,1255,True,True
+FITB,Fifth Third Bancorp,Financials,1255,1255,1255,True,True
+FIX,Comfort Systems USA,Industrials,1255,7,7,True,True
+FLIR,,,0,91,0,False,False
+FLS,,,1255,53,53,True,True
+FMC,,,1255,1059,1059,True,True
+FOX,Fox Corporation (Class B),Communication Services,1255,1255,1255,True,True
+FOXA,Fox Corporation (Class A),Communication Services,1255,1255,1255,True,True
+FRC,,,0,587,0,False,False
+FRT,Federal Realty Investment Trust,Real Estate,1255,1255,1255,True,True
+FSLR,First Solar,Information Technology,1255,761,761,True,True
+FTI,,,1255,28,28,True,True
+FTNT,Fortinet,Information Technology,1255,1255,1255,True,True
+FTV,Fortive,Industrials,1255,1255,1255,True,True
+GD,General Dynamics,Industrials,1255,1255,1255,True,True
+GDDY,GoDaddy,Information Technology,1255,383,383,True,True
+GE,GE Aerospace,Industrials,1255,1255,1255,True,True
+GEHC,GE HealthCare,Health Care,763,751,751,False,True
+GEN,Gen Digital,Information Technology,1255,1255,1255,True,True
+GEV,GE Vernova,Industrials,443,440,440,False,True
+GILD,Gilead Sciences,Health Care,1255,1255,1255,True,True
+GIS,General Mills,Consumer Staples,1255,1255,1255,True,True
+GL,Globe Life,Financials,1255,1255,1255,True,True
+GLW,Corning Inc.,Information Technology,1255,1255,1255,True,True
+GM,General Motors,Consumer Discretionary,1255,1255,1255,True,True
+GNRC,Generac,Industrials,1255,1202,1202,True,True
+GOOG,Alphabet Inc. (Class C),Communication Services,1255,1255,1255,True,True
+GOOGL,Alphabet Inc. (Class A),Communication Services,1255,1255,1255,True,True
+GPC,Genuine Parts Company,Consumer Discretionary,1255,1255,1255,True,True
+GPN,Global Payments,Financials,1255,1255,1255,True,True
+GPS,,,0,274,0,False,False
+GRMN,Garmin,Consumer Discretionary,1255,1255,1255,True,True
+GS,Goldman Sachs,Financials,1255,1255,1255,True,True
+GWW,W. W. Grainger,Industrials,1255,1255,1255,True,True
+HAL,Halliburton,Energy,1255,1255,1255,True,True
+HAS,Hasbro,Consumer Discretionary,1255,1255,1255,True,True
+HBAN,Huntington Bancshares,Financials,1255,1255,1255,True,True
+HBI,,,0,243,0,False,False
+HCA,HCA Healthcare,Health Care,1255,1255,1255,True,True
+HD,Home Depot (The),Consumer Discretionary,1255,1255,1255,True,True
+HES,,,0,1142,0,False,False
+HFC,,,0,105,0,False,False
+HIG,Hartford (The),Financials,1255,1255,1255,True,True
+HII,Huntington Ingalls Industries,Industrials,1255,1255,1255,True,True
+HLT,Hilton Worldwide,Consumer Discretionary,1255,1255,1255,True,True
+HOLX,,,0,1255,0,False,False
+HON,Honeywell Technologies,Industrials,1255,1255,1255,True,True
+HOOD,Robinhood Markets,Financials,1112,71,71,False,True
+HPE,Hewlett Packard Enterprise,Information Technology,1255,1255,1255,True,True
+HPQ,HP Inc.,Information Technology,1255,1255,1255,True,True
+HRL,Hormel Foods,Consumer Staples,1255,1255,1255,True,True
+HSIC,Henry Schein,Health Care,1255,1255,1255,True,True
+HST,Host Hotels & Resorts,Real Estate,1255,1255,1255,True,True
+HSY,Hershey Company (The),Consumer Staples,1255,1255,1255,True,True
+HUBB,Hubbell Incorporated,Industrials,1255,553,553,True,True
+HUM,Humana,Health Care,1255,1255,1255,True,True
+HWM,Howmet Aerospace,Industrials,1255,1255,1255,True,True
+IBKR,Interactive Brokers,Financials,1255,87,87,True,True
+IBM,IBM,Information Technology,1255,1255,1255,True,True
+ICE,Intercontinental Exchange,Financials,1255,1255,1255,True,True
+IDXX,Idexx Laboratories,Health Care,1255,1255,1255,True,True
+IEX,IDEX Corporation,Industrials,1255,1255,1255,True,True
+IFF,International Flavors & Fragrances,Materials,1255,1255,1255,True,True
+ILMN,"Illumina, Inc.",Health Care,1255,872,872,True,True
+INCY,Incyte,Health Care,1255,1255,1255,True,True
+INFO,,,307,292,0,False,False
+INTC,Intel,Information Technology,1255,1255,1255,True,True
+INTU,Intuit,Information Technology,1255,1255,1255,True,True
+INVH,Invitation Homes,Real Estate,1255,825,825,True,True
+IP,International Paper,Materials,1255,1255,1255,True,True
+IPG,,,0,1232,0,False,False
+IPGP,,,1255,368,368,True,True
+IQV,IQVIA,Health Care,1255,1255,1255,True,True
+IR,Ingersoll Rand,Industrials,1255,1255,1255,True,True
+IRM,Iron Mountain,Real Estate,1255,1255,1255,True,True
+ISRG,Intuitive Surgical,Health Care,1255,1255,1255,True,True
+IT,Gartner,Information Technology,1255,1255,1255,True,True
+ITW,Illinois Tool Works,Industrials,1255,1255,1255,True,True
+IVZ,Invesco,Financials,1255,1255,1255,True,True
+J,Jacobs Solutions,Industrials,1255,1255,1255,True,True
+JBHT,J.B. Hunt,Industrials,1255,1255,1255,True,True
+JBL,Jabil,Information Technology,1255,511,511,True,True
+JCI,Johnson Controls,Industrials,1255,1255,1255,True,True
+JKHY,Jack Henry & Associates,Financials,1255,1255,1255,True,True
+JNJ,Johnson & Johnson,Health Care,1255,1255,1255,True,True
+JNPR,,,0,1132,0,False,False
+JPM,JPMorgan Chase,Financials,1255,1255,1255,True,True
+K,,,0,1241,0,False,False
+KDP,Keurig Dr Pepper,Consumer Staples,1255,887,887,True,True
+KEY,KeyCorp,Financials,1255,1255,1255,True,True
+KEYS,Keysight Technologies,Information Technology,1255,1255,1255,True,True
+KHC,Kraft Heinz,Consumer Staples,1255,1255,1255,True,True
+KIM,Kimco Realty,Real Estate,1255,1255,1255,True,True
+KKR,KKR & Co.,Financials,1255,383,383,True,True
+KLAC,KLA Corporation,Information Technology,1255,1255,1255,True,True
+KMB,Kimberly-Clark,Consumer Staples,1255,1255,1255,True,True
+KMI,Kinder Morgan,Energy,1255,1255,1255,True,True
+KMX,,,1255,1213,1213,True,True
+KO,Coca-Cola Company (The),Consumer Staples,1255,1255,1255,True,True
+KR,Kroger,Consumer Staples,1255,1255,1255,True,True
+KSU,,,0,239,0,False,False
+KVUE,,,0,590,0,False,False
+L,Loews Corporation,Financials,1255,1255,1255,True,True
+LDOS,Leidos,Industrials,1255,1255,1255,True,True
+LEG,,,0,243,0,False,False
+LEN,Lennar,Consumer Discretionary,1255,1255,1255,True,True
+LH,Labcorp,Health Care,1255,1255,1255,True,True
+LHX,L3Harris,Industrials,1255,1255,1255,True,True
+LII,Lennox International,Industrials,1255,256,256,True,True
+LIN,Linde plc,Materials,1255,1255,1255,True,True
+LKQ,,,1255,1248,1248,True,True
+LLY,Lilly (Eli),Health Care,1255,1255,1255,True,True
+LMT,Lockheed Martin,Industrials,1255,1255,1255,True,True
+LNC,,,1255,680,680,True,True
+LNT,Alliant Energy,Utilities,1255,1255,1255,True,True
+LOW,Lowe's,Consumer Discretionary,1255,1255,1255,True,True
+LRCX,Lam Research,Information Technology,1255,1255,1255,True,True
+LULU,Lululemon Athletica,Consumer Discretionary,1255,553,553,True,True
+LUMN,,,1255,555,555,True,True
+LUV,Southwest Airlines,Industrials,1255,1255,1255,True,True
+LVS,Las Vegas Sands,Consumer Discretionary,1255,1255,1255,True,True
+LW,,,1255,1255,1255,True,True
+LYB,LyondellBasell,Materials,1255,1255,1255,True,True
+LYV,Live Nation Entertainment,Communication Services,1255,1255,1255,True,True
+MA,Mastercard,Financials,1255,1255,1255,True,True
+MAA,Mid-America Apartment Communities,Real Estate,1255,1255,1255,True,True
+MAR,Marriott International,Consumer Discretionary,1255,1255,1255,True,True
+MAS,Masco,Industrials,1255,1255,1255,True,True
+MBC,,,767,2,2,False,True
+MCD,McDonald's,Consumer Discretionary,1255,1255,1255,True,True
+MCHP,Microchip Technology,Information Technology,1255,1255,1255,True,True
+MCK,McKesson,Health Care,1255,1255,1255,True,True
+MCO,Moody's Corporation,Financials,1255,1255,1255,True,True
+MDLZ,Mondelez International,Consumer Staples,1255,1255,1255,True,True
+MDT,Medtronic,Health Care,1255,1255,1255,True,True
+MET,MetLife,Financials,1255,1255,1255,True,True
+META,Meta Platforms,Communication Services,1255,1255,1255,True,True
+MGM,MGM Resorts,Consumer Discretionary,1255,1255,1255,True,True
+MHK,,,1255,1248,1248,True,True
+MKC,McCormick & Company,Consumer Staples,1255,1255,1255,True,True
+MKTX,,,1255,1184,1184,True,True
+MLM,Martin Marietta Materials,Materials,1255,1255,1255,True,True
+MMM,3M,Industrials,1255,1255,1255,True,True
+MNST,Monster Beverage,Consumer Staples,1255,1255,1255,True,True
+MO,Altria,Consumer Staples,1255,1255,1255,True,True
+MOH,,,1255,963,963,True,True
+MOS,Mosaic Company (The),Materials,1255,1255,1255,True,True
+MPC,Marathon Petroleum,Energy,1255,1255,1255,True,True
+MPWR,Monolithic Power Systems,Information Technology,1255,1227,1227,True,True
+MRK,Merck & Co.,Health Care,1255,1255,1255,True,True
+MRNA,Moderna,Health Care,1255,1118,1118,True,True
+MRO,,,0,981,0,False,False
+MRSH,Marsh McLennan,Financials,1255,1255,1255,True,True
+MS,Morgan Stanley,Financials,1255,1255,1255,True,True
+MSCI,MSCI,Financials,1255,1255,1255,True,True
+MSFT,Microsoft,Information Technology,1255,1255,1255,True,True
+MSI,Motorola Solutions,Information Technology,1255,1255,1255,True,True
+MTB,M&T Bank,Financials,1255,1255,1255,True,True
+MTCH,,,1255,1076,1076,True,True
+MTD,Mettler Toledo,Health Care,1255,1255,1255,True,True
+MU,Micron Technology,Information Technology,1255,1255,1255,True,True
+MXIM,,,0,165,0,False,False
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,1255,1255,1255,True,True
+NDAQ,"Nasdaq, Inc.",Financials,1255,1255,1255,True,True
+NDSN,Nordson Corporation,Industrials,1255,973,973,True,True
+NEE,NextEra Energy,Utilities,1255,1255,1255,True,True
+NEM,Newmont,Materials,1255,1255,1255,True,True
+NFLX,Netflix,Communication Services,1255,1255,1255,True,True
+NI,NiSource,Utilities,1255,1255,1255,True,True
+NKE,"Nike, Inc.",Consumer Discretionary,1255,1255,1255,True,True
+NLSN,,,0,447,0,False,False
+NOC,Northrop Grumman,Industrials,1255,1255,1255,True,True
+NOV,,,1255,179,179,True,True
+NOW,ServiceNow,Information Technology,1255,1255,1255,True,True
+NRG,NRG Energy,Utilities,1255,1255,1255,True,True
+NSC,Norfolk Southern,Industrials,1255,1255,1255,True,True
+NTAP,NetApp,Information Technology,1255,1255,1255,True,True
+NTRS,Northern Trust,Financials,1255,1255,1255,True,True
+NUE,Nucor,Materials,1255,1255,1255,True,True
+NVDA,Nvidia,Information Technology,1255,1255,1255,True,True
+NVR,"NVR, Inc.",Consumer Discretionary,1255,1255,1255,True,True
+NWL,,,1255,680,680,True,True
+NWS,News Corp (Class B),Communication Services,1255,1255,1255,True,True
+NWSA,News Corp (Class A),Communication Services,1255,1255,1255,True,True
+NXPI,NXP Semiconductors,Information Technology,1255,1202,1202,True,True
+O,Realty Income,Real Estate,1255,1255,1255,True,True
+ODFL,Old Dominion,Industrials,1255,1255,1255,True,True
+OGN,,,1164,598,598,False,True
+OKE,Oneok,Energy,1255,1255,1255,True,True
+OMC,Omnicom Group,Communication Services,1255,1255,1255,True,True
+ON,ON Semiconductor,Information Technology,1255,887,887,True,True
+ORCL,Oracle Corporation,Information Technology,1255,1255,1255,True,True
+ORLY,O'Reilly Automotive,Consumer Discretionary,1255,1255,1255,True,True
+OTIS,Otis Worldwide,Industrials,1255,1255,1255,True,True
+OXY,Occidental Petroleum,Energy,1255,1255,1255,True,True
+PANW,Palo Alto Networks,Information Technology,1255,637,637,True,True
+PAYC,,,1255,1255,1255,True,True
+PAYX,Paychex,Industrials,1255,1255,1255,True,True
+PBCT,,,0,315,0,False,False
+PCAR,Paccar,Industrials,1255,1255,1255,True,True
+PCG,PG&E Corporation,Utilities,1255,815,815,True,True
+PEG,Public Service Enterprise Group,Utilities,1255,1255,1255,True,True
+PENN,,,1255,377,377,True,True
+PEP,PepsiCo,Consumer Staples,1255,1255,1255,True,True
+PFE,Pfizer,Health Care,1255,1255,1255,True,True
+PFG,Principal Financial Group,Financials,1255,1255,1255,True,True
+PG,Procter & Gamble,Consumer Staples,1255,1255,1255,True,True
+PGR,Progressive Corporation,Financials,1255,1255,1255,True,True
+PH,Parker Hannifin,Industrials,1255,1255,1255,True,True
+PHM,PulteGroup,Consumer Discretionary,1255,1255,1255,True,True
+PKG,Packaging Corporation of America,Materials,1255,1255,1255,True,True
+PLD,Prologis,Real Estate,1255,1255,1255,True,True
+PLTR,Palantir Technologies,Information Technology,1255,320,320,True,True
+PM,Philip Morris International,Consumer Staples,1255,1255,1255,True,True
+PNC,PNC Financial Services,Financials,1255,1255,1255,True,True
+PNR,Pentair,Industrials,1255,1255,1255,True,True
+PNW,Pinnacle West Capital,Utilities,1255,1255,1255,True,True
+PODD,Insulet Corporation,Health Care,1255,703,703,True,True
+POOL,,,1255,1255,1255,True,True
+PPG,PPG Industries,Materials,1255,1255,1255,True,True
+PPL,PPL Corporation,Utilities,1255,1255,1255,True,True
+PRGO,,,1255,179,179,True,True
+PRU,Prudential Financial,Financials,1255,1255,1255,True,True
+PSA,Public Storage,Real Estate,1255,1255,1255,True,True
+PSX,Phillips 66,Energy,1255,1255,1255,True,True
+PTC,PTC Inc.,Information Technology,1255,1182,1182,True,True
+PVH,,,1255,430,430,True,True
+PWR,Quanta Services,Industrials,1255,1255,1255,True,True
+PXD,,,0,841,0,False,False
+PYPL,PayPal,Financials,1255,1255,1255,True,True
+Q,Qnity Electronics,Information Technology,46,41,41,False,True
+QCOM,Qualcomm,Information Technology,1255,1255,1255,True,True
+QRVO,,,0,999,0,False,False
+RCL,Royal Caribbean Group,Consumer Discretionary,1255,1255,1255,True,True
+REG,Regency Centers,Real Estate,1255,1255,1255,True,True
+REGN,Regeneron Pharmaceuticals,Health Care,1255,1255,1255,True,True
+RF,Regions Financial Corporation,Financials,1255,1255,1255,True,True
+RHI,,,1255,872,872,True,True
+RJF,Raymond James Financial,Financials,1255,1255,1255,True,True
+RL,Ralph Lauren Corporation,Consumer Discretionary,1255,1255,1255,True,True
+RMD,ResMed,Health Care,1255,1255,1255,True,True
+ROK,Rockwell Automation,Industrials,1255,1255,1255,True,True
+ROL,"Rollins, Inc.",Industrials,1255,1255,1255,True,True
+ROP,Roper Technologies,Information Technology,1255,1255,1255,True,True
+ROST,Ross Stores,Consumer Discretionary,1255,1255,1255,True,True
+RSG,Republic Services,Industrials,1255,1255,1255,True,True
+RTX,RTX Corporation,Industrials,1255,1255,1255,True,True
+RVTY,Revvity,Health Care,1255,1255,1255,True,True
+SBAC,SBA Communications,Real Estate,1255,1255,1255,True,True
+SBNY,,,346,309,0,False,False
+SBUX,Starbucks,Consumer Discretionary,1255,1255,1255,True,True
+SCHW,Charles Schwab Corporation,Financials,1255,1255,1255,True,True
+SEDG,,,1255,501,501,True,True
+SEE,,,0,744,0,False,False
+SHW,Sherwin-Williams,Materials,1255,1255,1255,True,True
+SIVB,,,0,552,0,False,False
+SJM,J.M. Smucker Company (The),Consumer Staples,1255,1255,1255,True,True
+SKYD,Skydance,Communication Services,1255,1255,1255,True,True
+SLB,Schlumberger,Energy,1255,1255,1255,True,True
+SLG,,,1255,53,53,True,True
+SMCI,Supermicro,Information Technology,1255,450,450,True,True
+SNA,Snap-on,Industrials,1255,1255,1255,True,True
+SNDK,Sandisk,Information Technology,222,23,23,False,True
+SNPS,Synopsys,Information Technology,1255,1255,1255,True,True
+SO,Southern Company,Utilities,1255,1255,1255,True,True
+SOLS,,,51,36,36,False,True
+SOLV,Solventum,Health Care,444,441,441,False,True
+SPG,Simon Property Group,Real Estate,1255,1255,1255,True,True
+SPGI,S&P Global,Financials,1255,1255,1255,True,True
+SRE,Sempra,Utilities,1255,1255,1255,True,True
+STE,Steris,Health Care,1255,1255,1255,True,True
+STLD,Steel Dynamics,Materials,1255,758,758,True,True
+STT,State Street Corporation,Financials,1255,1255,1255,True,True
+STX,Seagate Technology,Information Technology,1255,1255,1255,True,True
+STZ,Constellation Brands,Consumer Staples,1255,1255,1255,True,True
+SW,Smurfit Westrock,Materials,1255,1255,1255,True,True
+SWK,Stanley Black & Decker,Industrials,1255,1255,1255,True,True
+SWKS,Skyworks Solutions,Information Technology,1255,1255,1255,True,True
+SYF,Synchrony Financial,Financials,1255,1255,1255,True,True
+SYK,Stryker Corporation,Health Care,1255,1255,1255,True,True
+SYY,Sysco,Consumer Staples,1255,1255,1255,True,True
+T,AT&T,Communication Services,1255,1255,1255,True,True
+TAP,,,1255,1255,1255,True,True
+TDG,TransDigm Group,Industrials,1255,1255,1255,True,True
+TDY,Teledyne Technologies,Information Technology,1255,1255,1255,True,True
+TECH,Bio-Techne,Health Care,1255,1090,1090,True,True
+TEL,TE Connectivity,Information Technology,1255,1255,1255,True,True
+TER,Teradyne,Information Technology,1255,1255,1255,True,True
+TFC,Truist Financial,Financials,1255,1255,1255,True,True
+TFX,,,1255,1059,1059,True,True
+TGT,Target Corporation,Consumer Staples,1255,1255,1255,True,True
+TIF,,,0,3,0,False,False
+TJX,TJX Companies,Consumer Discretionary,1255,1255,1255,True,True
+TKO,TKO Group Holdings,Communication Services,1255,196,196,True,True
+TMO,Thermo Fisher Scientific,Health Care,1255,1255,1255,True,True
+TMUS,T-Mobile US,Communication Services,1255,1255,1255,True,True
+TPL,Texas Pacific Land Corporation,Energy,1255,274,274,True,True
+TPR,"Tapestry, Inc.",Consumer Discretionary,1255,1255,1255,True,True
+TRGP,Targa Resources,Energy,1255,808,808,True,True
+TRMB,Trimble Inc.,Information Technology,1255,1243,1243,True,True
+TROW,T. Rowe Price,Financials,1255,1255,1255,True,True
+TRV,Travelers Companies (The),Financials,1255,1255,1255,True,True
+TSCO,Tractor Supply,Consumer Discretionary,1255,1255,1255,True,True
+TSLA,"Tesla, Inc.",Consumer Discretionary,1255,1255,1255,True,True
+TSN,Tyson Foods,Consumer Staples,1255,1255,1255,True,True
+TT,Trane Technologies,Industrials,1255,1255,1255,True,True
+TTD,,,1255,116,116,True,True
+TTWO,Take-Two Interactive,Communication Services,1255,1255,1255,True,True
+TWTR,,,0,461,0,False,False
+TXN,Texas Instruments,Information Technology,1255,1255,1255,True,True
+TXT,Textron,Industrials,1255,1255,1255,True,True
+TYL,Tyler Technologies,Information Technology,1255,1255,1255,True,True
+UA,,,1255,368,368,True,True
+UAA,,,1255,368,368,True,True
+UAL,United Airlines Holdings,Industrials,1255,1255,1255,True,True
+UBER,Uber,Industrials,1255,511,511,True,True
+UDR,"UDR, Inc.",Real Estate,1255,1255,1255,True,True
+UHS,Universal Health Services,Health Care,1255,1255,1255,True,True
+ULTA,Ulta Beauty,Consumer Discretionary,1255,1255,1255,True,True
+UNH,UnitedHealth Group,Health Care,1255,1255,1255,True,True
+UNM,,,1255,179,179,True,True
+UNP,Union Pacific Corporation,Industrials,1255,1255,1255,True,True
+UPS,United Parcel Service,Industrials,1255,1255,1255,True,True
+URI,United Rentals,Industrials,1255,1255,1255,True,True
+USB,U.S. Bancorp,Financials,1255,1255,1255,True,True
+V,Visa Inc.,Financials,1255,1255,1255,True,True
+VAR,,,0,73,0,False,False
+VFC,,,1255,816,816,True,True
+VICI,Vici Properties,Real Estate,1255,895,895,True,True
+VLO,Valero Energy,Energy,1255,1255,1255,True,True
+VLTO,Veralto,Industrials,563,565,563,False,False
+VMC,Vulcan Materials Company,Materials,1255,1255,1255,True,True
+VMRK,Vivmark Residential,Real Estate,1255,1255,1255,True,True
+VNO,,,1255,505,505,True,True
+VNT,,,1255,53,53,True,True
+VRSK,Verisk Analytics,Industrials,1255,1255,1255,True,True
+VRSN,Verisign,Information Technology,1255,1255,1255,True,True
+VRTX,Vertex Pharmaceuticals,Health Care,1255,1255,1255,True,True
+VST,Vistra Corp.,Utilities,1255,414,414,True,True
+VTR,Ventas,Real Estate,1255,1255,1255,True,True
+VTRS,Viatris,Health Care,1255,1255,1255,True,True
+VZ,Verizon,Communication Services,1255,1255,1255,True,True
+WAB,Wabtec,Industrials,1255,1255,1255,True,True
+WAT,Waters Corporation,Health Care,1255,1255,1255,True,True
+WBA,,,0,1168,0,False,False
+WBD,,,0,935,0,False,False
+WDAY,"Workday, Inc.",Information Technology,1255,256,256,True,True
+WDC,Western Digital,Information Technology,1255,1255,1255,True,True
+WEC,WEC Energy Group,Utilities,1255,1255,1255,True,True
+WELL,Welltower,Real Estate,1255,1255,1255,True,True
+WFC,Wells Fargo,Financials,1255,1255,1255,True,True
+WHR,,,1255,805,805,True,True
+WLTW,,,0,257,0,False,False
+WM,Waste Management,Industrials,1255,1255,1255,True,True
+WMB,Williams Companies,Energy,1255,1255,1255,True,True
+WMT,Walmart,Consumer Staples,1255,1255,1255,True,True
+WRB,W. R. Berkley Corporation,Financials,1255,1255,1255,True,True
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,1255,196,196,True,True
+WST,West Pharmaceutical Services,Health Care,1255,1255,1255,True,True
+WTW,Willis Towers Watson,Financials,1255,998,998,True,True
+WU,,,1255,243,243,True,True
+WY,Weyerhaeuser,Real Estate,1255,1255,1255,True,True
+WYNN,Wynn Resorts,Consumer Discretionary,1255,1255,1255,True,True
+XEL,Xcel Energy,Utilities,1255,1255,1255,True,True
+XLNX,,,0,282,0,False,False
+XOM,ExxonMobil,Energy,1255,1255,1255,True,True
+XRAY,,,1255,816,816,True,True
+XRX,,,1255,53,53,True,True
+XYL,Xylem Inc.,Industrials,1255,1255,1255,True,True
+XYZ,"Block, Inc.",Financials,1255,113,113,True,True
+YUM,Yum! Brands,Consumer Discretionary,1255,1255,1255,True,True
+ZBH,Zimmer Biomet,Health Care,1255,1255,1255,True,True
+ZBRA,Zebra Technologies,Information Technology,1255,1255,1255,True,True
+ZION,,,1255,805,805,True,True
+ZTS,Zoetis,Health Care,1255,1255,1255,True,True
